@@ -1,20 +1,24 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
-Include the date you created this project and README file.
+Tue Feb 23 12:27:49 2021 +0530
 
 ### Project Title
-Replace the Project Title
+pdsnd_github
 
 ### Description
-Describe what your project is about and what it does
+This project is to increase my knowledge on the usuage of git and ithub. It is to showcase the experience I have on github.
 
 ### Files used
-Include the files used
+new_york_city.csv
+bikeshare.py
+washington.csv
+chicago.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-## first update
-## Second update
-## third update
-## edit
+udacity.com
+github.com
+
+
+
+
